@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIReadingInstanceParameters.dll"</Assembly>
+		<AddInId>BEC5E839-967B-4B4D-8FAE-FE8354DB598D</AddInId>
+		<FullClassName>RevitAPIReadingInstanceParameters.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Чтение параметров экземпляра для Revit</Text>
+	</AddIn>
+</RevitAddIns>
